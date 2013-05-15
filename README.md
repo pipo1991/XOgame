@@ -1,4 +1,4 @@
 XOgame
 ======
 
-A simple XO Game in C #
+A simple Tic Tac Toe Game in C#
